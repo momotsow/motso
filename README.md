@@ -1,3 +1,2 @@
 # motso
-
-https://github.com/momotsow/index.html
+ https://momotsow.github.io/motso/index.html
